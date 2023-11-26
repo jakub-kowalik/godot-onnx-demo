@@ -1,0 +1,5 @@
+jupyter==1.0.0
+numpy==1.26.2
+onnx==1.15.0
+onnxscript==0.1.0.dev20231126
+torch==2.1.1
