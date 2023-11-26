@@ -1,6 +1,6 @@
 # godot-onnx-demo
 
-- Godot 4.2 dev4 mono
+- Godot 4.2 dev4 mono (Needs to support Android export with C# to use ML.NET for onnx)
 - Python 3+ with Pytorch compatible with onnx export (2.1 used)
 
 
