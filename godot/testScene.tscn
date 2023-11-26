@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://ct8thbnd71ls1"]
+
+[ext_resource type="Script" path="res://Label.cs" id="1_2hrdd"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+offset_left = 36.0
+offset_top = 25.0
+offset_right = 1086.0
+offset_bottom = 593.0
+theme_override_font_sizes/font_size = 64
+text = "Hello this is sample text"
+script = ExtResource("1_2hrdd")
